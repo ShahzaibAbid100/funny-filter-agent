@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Large AI models
+models/
+
+# Generated images
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# VS Code
+.vscode/
